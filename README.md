@@ -127,22 +127,3 @@ class ExamplePage extends Component {
 
 export default connect(state => state)(ExamplePage)
 ```
-
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://twitter.com/bmealhouse"><img src="https://avatars3.githubusercontent.com/u/3741255?v=4" width="100px;" alt="Brent Mealhouse"/><br /><sub><b>Brent Mealhouse</b></sub></a><br /><a href="https://github.com/bmealhouse/next-redux-saga/commits?author=bmealhouse" title="Code">💻</a> <a href="https://github.com/bmealhouse/next-redux-saga/commits?author=bmealhouse" title="Tests">⚠️</a> <a href="https://github.com/bmealhouse/next-redux-saga/commits?author=bmealhouse" title="Documentation">📖</a> <a href="#maintenance-bmealhouse" title="Maintenance">🚧</a> <a href="#question-bmealhouse" title="Answering Questions">💬</a></td><td align="center"><a href="https://bbortt.github.io"><img src="https://avatars0.githubusercontent.com/u/12272901?v=4" width="100px;" alt="Timon Borter"/><br /><sub><b>Timon Borter</b></sub></a><br /><a href="https://github.com/bmealhouse/next-redux-saga/commits?author=bbortt" title="Code">💻</a> <a href="https://github.com/bmealhouse/next-redux-saga/commits?author=bbortt" title="Tests">⚠️</a> <a href="https://github.com/bmealhouse/next-redux-saga/commits?author=bbortt" title="Documentation">📖</a> <a href="#maintenance-bbortt" title="Maintenance">🚧</a> <a href="#question-bbortt" title="Answering Questions">💬</a></td><td align="center"><a href="https://abzanov.com"><img src="https://avatars3.githubusercontent.com/u/5141037?v=4" width="100px;" alt="Artem Abzanov"/><br /><sub><b>Artem Abzanov</b></sub></a><br /><a href="https://github.com/bmealhouse/next-redux-saga/commits?author=JerryCauser" title="Code">💻</a> <a href="https://github.com/bmealhouse/next-redux-saga/commits?author=JerryCauser" title="Tests">⚠️</a> <a href="https://github.com/bmealhouse/next-redux-saga/commits?author=JerryCauser" title="Documentation">📖</a></td><td align="center"><a href="https://github.com/RobbinHabermehl"><img src="https://avatars1.githubusercontent.com/u/1640272?v=4" width="100px;" alt="Robbin Habermehl"/><br /><sub><b>Robbin Habermehl</b></sub></a><br /><a href="https://github.com/bmealhouse/next-redux-saga/commits?author=RobbinHabermehl" title="Code">💻</a> <a href="https://github.com/bmealhouse/next-redux-saga/commits?author=RobbinHabermehl" title="Tests">⚠️</a> <a href="https://github.com/bmealhouse/next-redux-saga/commits?author=RobbinHabermehl" title="Documentation">📖</a></td></tr></table>
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Contributing
-
-1. [Fork](https://help.github.com/articles/fork-a-repo/) this repository to your own GitHub account and then [clone](https://help.github.com/articles/cloning-a-repository/) it to your local device
-1. Install the dependecies: `yarn`
-1. Link the package to the global module directory: `yarn link`
-1. Run `yarn test --watch` and start making your changes
-1. You can use `yarn link next-redux-saga` to test your changes in an actual project
-
-## LICENSE
-
-This project is licensed under the terms of MIT license. See the [license file](https://github.com/bmealhouse/next-redux-saga/blob/master/LICENSE) for more information.
